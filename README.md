@@ -8,11 +8,11 @@ Unlike other build packs, I never compile anything and remove this git.
 Add the following to your `.buildpacks`:
 
 ```
-https://github.com/amivin/aria2-heroku.git
+https://github.com/tentei-zeusu/aria2-heroku.git
 ```
 
 Or run the following from the heroku command line:
 
 ```
-heroku buildpacks:add https://github.com/amivin/aria2-heroku.git
+heroku buildpacks:add https://github.com/tentei-zeusu/aria2-heroku.git
 ```
